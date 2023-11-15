@@ -1,0 +1,31 @@
+_repo: The-dark-night-b-Or-the-fear-of-man-bringeth-a-snare_72021
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guernsey, Lucy Ellen
+    aliases:
+    - Guernsey, Lucy E. (Lucy Ellen)
+    - L. E. G. (Lucy Ellen Guernsey)
+    - G., L. E. (Lucy Ellen Guernsey)
+    - LEG (Lucy Ellen Guernsey)
+    birthdate: 1826
+    deathdate: 1899
+    gutenberg_agent_id: '56141'
+    url: http://www.gutenberg.org/2009/agents/56141
+    wikipedia: https://en.wikipedia.org/wiki/Lucy_Ellen_Guernsey
+description: ''
+gutenberg_issued: '2023-11-04'
+identifiers:
+  gutenberg: '72021'
+language: en
+pgterms:marc905: 20231030133747guernsey
+pgterms:marc906: '1871'
+pgterms:marc907: US
+publication_note: '  $aPhiladelphia :$bAmerican Sunday-School Union, $c1871.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The dark night : $b Or, the fear of man bringeth a snare'
+url: http://www.gutenberg.org/ebooks/72021
